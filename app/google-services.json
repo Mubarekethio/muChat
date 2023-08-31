@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "135635586375",
+    "firebase_url": "https://muchat-8584c-default-rtdb.firebaseio.com",
+    "project_id": "muchat-8584c",
+    "storage_bucket": "muchat-8584c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135635586375:android:a13cc3ab7296517f5c5062",
+        "android_client_info": {
+          "package_name": "org.mukee.chatapp.muchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135635586375-fli2gpma5rjqka7ndotghpc18ak433oa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.mukee.chatapp.muchat",
+            "certificate_hash": "f658d320cec3790c4d3d849b6e5c781177b18447"
+          }
+        },
+        {
+          "client_id": "135635586375-stj62ah9sftp1ct4bkjq0jt9j6i9n45r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxk4FeqC1YBJPtisC9gDYSoNZ6mdMOxBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135635586375-h50dqqu8p4a9l5ncqgc3gju4pc97ccqt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
